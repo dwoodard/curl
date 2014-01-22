@@ -1,5 +1,5 @@
 {
-    "name": "laravel/curl",
+    "name": "dwoodard/curl",
     "version": "1.0.0",
     "type": "library",
     "description": "Laravel Curl Helper Library",
